@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "55444668926",
+    "firebase_url": "https://uatasist-default-rtdb.firebaseio.com",
+    "project_id": "uatasist",
+    "storage_bucket": "uatasist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55444668926:android:b65d97a14fe6d98cbbc0af",
+        "android_client_info": {
+          "package_name": "com.example.checadordeprofesores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55444668926-rkr3e0gehurbng1mkka9o2k8lks9spsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvcpMC-rpvR5uqfjeDsalw1P6dQZNbTkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55444668926-jep3g45umng2frjrj07e06820pkvqr90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55444668926:android:4e045c64a9a489a0bbc0af",
+        "android_client_info": {
+          "package_name": "com.example.firebasetesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55444668926-rkr3e0gehurbng1mkka9o2k8lks9spsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvcpMC-rpvR5uqfjeDsalw1P6dQZNbTkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55444668926-jep3g45umng2frjrj07e06820pkvqr90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
