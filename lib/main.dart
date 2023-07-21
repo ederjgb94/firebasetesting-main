@@ -260,19 +260,19 @@ class _MyHomePageState extends State<MyHomePage> {
         },
       ),
       floatingActionButton: FloatingActionButton(
-        // onPressed: _incrementCounter,
-        onPressed: () {
-          db
-              .collection('ciclos')
-              .doc('2023 - 3 Otoño')
-              .collection('profesores')
-              .doc('12228-TOLEDO BARAJAS LEONOR ')
-              .collection('abc')
-              .get(
-                const GetOptions(source: Source.server),
-              )
-              .then((value) => print(value.docs.length));
-        },
+        onPressed: _incrementCounter,
+        // onPressed: () {
+        //   db
+        //       .collection('ciclos')
+        //       .doc('2023 - 3 Otoño')
+        //       .collection('profesores')
+        //       .doc('12228-TOLEDO BARAJAS LEONOR ')
+        //       .collection('abc')
+        //       .get(
+        //         const GetOptions(source: Source.server),
+        //       )
+        //       .then((value) => print(value.docs.length));
+        // },
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ),
